@@ -18,6 +18,7 @@ device.name5=
 supported.versions=11-15
 supported.patchlevels=
 supported.vendorpatchlevels=
+';}
 
 # boot shell variables
 BLOCK=/dev/block/bootdevice/by-name/boot;
